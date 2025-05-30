@@ -22,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/DylanLi6905/Leetcode/tree/master/0127-word-ladder) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/DylanLi6905/Leetcode/tree/master/0127-word-ladder) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/DylanLi6905/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
