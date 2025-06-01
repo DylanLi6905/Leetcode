@@ -9,13 +9,14 @@ class Solution {
                 changed = true;
                 smallest = Math.min(smallest, right - left+1);
             }
-            while(left <= right && currentSum >= target){
-                currentSum -= nums[left];
-                left++;
+            while(currentSum >= target){
                 if(currentSum >= target){
                 changed = true;
                 smallest = Math.min(smallest, right - left+1);
                 }
+                currentSum -= nums[left];
+                left++;
+                
             }
         }
         if(changed){
