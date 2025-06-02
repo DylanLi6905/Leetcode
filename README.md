@@ -13,6 +13,7 @@ My leetcode practice questions with solutions!
 | [0209-minimum-size-subarray-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/DylanLi6905/Leetcode/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/DylanLi6905/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -67,10 +68,12 @@ My leetcode practice questions with solutions!
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DylanLi6905/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DylanLi6905/Leetcode/tree/master/0015-3sum) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -81,4 +84,12 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
