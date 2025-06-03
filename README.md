@@ -49,6 +49,7 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0101-symmetric-tree) |
 | [0127-word-ladder](https://github.com/DylanLi6905/Leetcode/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/DylanLi6905/Leetcode/tree/master/0322-coin-change) |
 ## Linked List
@@ -97,12 +98,15 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
