@@ -69,6 +69,7 @@ My leetcode practice questions with solutions!
 | ------- |
 | [0015-3sum](https://github.com/DylanLi6905/Leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DylanLi6905/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/DylanLi6905/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DylanLi6905/Leetcode/tree/master/0015-3sum) |
+| [0295-find-median-from-data-stream](https://github.com/DylanLi6905/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/DylanLi6905/Leetcode/tree/master/0502-ipo) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Sliding Window
@@ -94,6 +96,7 @@ My leetcode practice questions with solutions!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/DylanLi6905/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DylanLi6905/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/DylanLi6905/Leetcode/tree/master/0502-ipo) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -119,4 +122,12 @@ My leetcode practice questions with solutions!
 | [0100-same-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0112-path-sum) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/DylanLi6905/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/DylanLi6905/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
