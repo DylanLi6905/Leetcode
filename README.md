@@ -48,6 +48,7 @@ My leetcode practice questions with solutions!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0100-same-tree) |
 | [0127-word-ladder](https://github.com/DylanLi6905/Leetcode/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/DylanLi6905/Leetcode/tree/master/0322-coin-change) |
 ## Linked List
@@ -92,4 +93,16 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
