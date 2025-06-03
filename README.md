@@ -8,6 +8,7 @@ My leetcode practice questions with solutions!
 | [0039-combination-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0039-combination-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DylanLi6905/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/DylanLi6905/Leetcode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DylanLi6905/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/DylanLi6905/Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -26,6 +27,7 @@ My leetcode practice questions with solutions!
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DylanLi6905/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/DylanLi6905/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/DylanLi6905/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/DylanLi6905/Leetcode/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/DylanLi6905/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -41,6 +43,7 @@ My leetcode practice questions with solutions!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DylanLi6905/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/DylanLi6905/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/DylanLi6905/Leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/DylanLi6905/Leetcode/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
@@ -48,6 +51,7 @@ My leetcode practice questions with solutions!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DylanLi6905/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/DylanLi6905/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/DylanLi6905/Leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/DylanLi6905/Leetcode/tree/master/0139-word-break) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -130,4 +134,12 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DylanLi6905/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/DylanLi6905/Leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/DylanLi6905/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
