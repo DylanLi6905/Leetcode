@@ -133,6 +133,7 @@ My leetcode practice questions with solutions!
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/DylanLi6905/Leetcode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/DylanLi6905/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -150,4 +151,8 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/DylanLi6905/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
