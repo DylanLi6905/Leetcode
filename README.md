@@ -15,6 +15,7 @@ My leetcode practice questions with solutions!
 | [0189-rotate-array](https://github.com/DylanLi6905/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/DylanLi6905/Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0274-h-index](https://github.com/DylanLi6905/Leetcode/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/DylanLi6905/Leetcode/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DylanLi6905/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/DylanLi6905/Leetcode/tree/master/0502-ipo) |
@@ -93,6 +94,7 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DylanLi6905/Leetcode/tree/master/0015-3sum) |
+| [0274-h-index](https://github.com/DylanLi6905/Leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/DylanLi6905/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/DylanLi6905/Leetcode/tree/master/0502-ipo) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -167,4 +169,8 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/DylanLi6905/Leetcode/tree/master/0189-rotate-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/DylanLi6905/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
