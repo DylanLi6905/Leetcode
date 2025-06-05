@@ -6,6 +6,7 @@ My leetcode practice questions with solutions!
 | ------- |
 | [0015-3sum](https://github.com/DylanLi6905/Leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DylanLi6905/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DylanLi6905/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -27,6 +28,7 @@ My leetcode practice questions with solutions!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DylanLi6905/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DylanLi6905/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -37,6 +39,7 @@ My leetcode practice questions with solutions!
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DylanLi6905/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0502-ipo](https://github.com/DylanLi6905/Leetcode/tree/master/0502-ipo) |
