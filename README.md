@@ -75,6 +75,7 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DylanLi6905/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/DylanLi6905/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/DylanLi6905/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 ## Recursion
@@ -130,6 +131,7 @@ My leetcode practice questions with solutions!
 | [0100-same-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/DylanLi6905/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -140,6 +142,7 @@ My leetcode practice questions with solutions!
 | [0100-same-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/DylanLi6905/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -150,6 +153,7 @@ My leetcode practice questions with solutions!
 | [0100-same-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/DylanLi6905/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -179,6 +183,7 @@ My leetcode practice questions with solutions!
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/DylanLi6905/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/DylanLi6905/Leetcode/tree/master/0155-min-stack) |
 ## Math
 |  |
