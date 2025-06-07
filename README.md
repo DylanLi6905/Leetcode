@@ -44,6 +44,7 @@ My leetcode practice questions with solutions!
 | [0055-jump-game](https://github.com/DylanLi6905/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0502-ipo](https://github.com/DylanLi6905/Leetcode/tree/master/0502-ipo) |
+| [1448-maximum-69-number](https://github.com/DylanLi6905/Leetcode/tree/master/1448-maximum-69-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,6 +193,7 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/DylanLi6905/Leetcode/tree/master/0189-rotate-array) |
+| [1448-maximum-69-number](https://github.com/DylanLi6905/Leetcode/tree/master/1448-maximum-69-number) |
 ## Counting Sort
 |  |
 | ------- |
