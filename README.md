@@ -54,6 +54,7 @@ My leetcode practice questions with solutions!
 | [0127-word-ladder](https://github.com/DylanLi6905/Leetcode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/DylanLi6905/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/DylanLi6905/Leetcode/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/DylanLi6905/Leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ My leetcode practice questions with solutions!
 | [0015-3sum](https://github.com/DylanLi6905/Leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DylanLi6905/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DylanLi6905/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/DylanLi6905/Leetcode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/DylanLi6905/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Binary Search
 |  |
@@ -194,6 +196,7 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/DylanLi6905/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/DylanLi6905/Leetcode/tree/master/0202-happy-number) |
 | [1448-maximum-69-number](https://github.com/DylanLi6905/Leetcode/tree/master/1448-maximum-69-number) |
 ## Counting Sort
 |  |
