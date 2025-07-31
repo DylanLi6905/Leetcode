@@ -35,6 +35,7 @@ My leetcode practice questions with solutions!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/DylanLi6905/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/DylanLi6905/Leetcode/tree/master/0198-house-robber) |
+| [0276-paint-fence](https://github.com/DylanLi6905/Leetcode/tree/master/0276-paint-fence) |
 | [0322-coin-change](https://github.com/DylanLi6905/Leetcode/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/DylanLi6905/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 ## Greedy
