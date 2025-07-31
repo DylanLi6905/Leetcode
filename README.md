@@ -154,6 +154,7 @@ My leetcode practice questions with solutions!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/DylanLi6905/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0545-boundary-of-binary-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0545-boundary-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -167,6 +168,7 @@ My leetcode practice questions with solutions!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/DylanLi6905/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0545-boundary-of-binary-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0545-boundary-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -180,6 +182,7 @@ My leetcode practice questions with solutions!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/DylanLi6905/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0545-boundary-of-binary-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0545-boundary-of-binary-tree) |
 ## Design
 |  |
 | ------- |
