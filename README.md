@@ -15,6 +15,7 @@ My leetcode practice questions with solutions!
 | [0189-rotate-array](https://github.com/DylanLi6905/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/DylanLi6905/Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0221-maximal-square](https://github.com/DylanLi6905/Leetcode/tree/master/0221-maximal-square) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0256-paint-house](https://github.com/DylanLi6905/Leetcode/tree/master/0256-paint-house) |
 | [0265-paint-house-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0265-paint-house-ii) |
@@ -42,6 +43,7 @@ My leetcode practice questions with solutions!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/DylanLi6905/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/DylanLi6905/Leetcode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/DylanLi6905/Leetcode/tree/master/0221-maximal-square) |
 | [0256-paint-house](https://github.com/DylanLi6905/Leetcode/tree/master/0256-paint-house) |
 | [0265-paint-house-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0265-paint-house-ii) |
 | [0276-paint-fence](https://github.com/DylanLi6905/Leetcode/tree/master/0276-paint-fence) |
@@ -145,6 +147,7 @@ My leetcode practice questions with solutions!
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/DylanLi6905/Leetcode/tree/master/0221-maximal-square) |
 | [0490-the-maze](https://github.com/DylanLi6905/Leetcode/tree/master/0490-the-maze) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Tree
