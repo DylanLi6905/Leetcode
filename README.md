@@ -23,6 +23,7 @@ My leetcode practice questions with solutions!
 | [0502-ipo](https://github.com/DylanLi6905/Leetcode/tree/master/0502-ipo) |
 | [0747-min-cost-climbing-stairs](https://github.com/DylanLi6905/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1059-missing-element-in-sorted-array](https://github.com/DylanLi6905/Leetcode/tree/master/1059-missing-element-in-sorted-array) |
+| [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Backtracking
 |  |
@@ -63,6 +64,7 @@ My leetcode practice questions with solutions!
 | [0139-word-break](https://github.com/DylanLi6905/Leetcode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/DylanLi6905/Leetcode/tree/master/0202-happy-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/DylanLi6905/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 ## String
 |  |
 | ------- |
@@ -183,10 +185,12 @@ My leetcode practice questions with solutions!
 | ------- |
 | [0155-min-stack](https://github.com/DylanLi6905/Leetcode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/DylanLi6905/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DylanLi6905/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 ## Trie
 |  |
 | ------- |
@@ -217,4 +221,8 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [0274-h-index](https://github.com/DylanLi6905/Leetcode/tree/master/0274-h-index) |
+## Queue
+|  |
+| ------- |
+| [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 <!---LeetCode Topics End-->
