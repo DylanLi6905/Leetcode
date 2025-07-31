@@ -110,6 +110,7 @@ My leetcode practice questions with solutions!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DylanLi6905/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DylanLi6905/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DylanLi6905/Leetcode/tree/master/0202-happy-number) |
+| [0277-find-the-celebrity](https://github.com/DylanLi6905/Leetcode/tree/master/0277-find-the-celebrity) |
 | [0295-find-median-from-data-stream](https://github.com/DylanLi6905/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Binary Search
 |  |
@@ -248,4 +249,12 @@ My leetcode practice questions with solutions!
 | ------- |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0739-daily-temperatures](https://github.com/DylanLi6905/Leetcode/tree/master/0739-daily-temperatures) |
+## Graph
+|  |
+| ------- |
+| [0277-find-the-celebrity](https://github.com/DylanLi6905/Leetcode/tree/master/0277-find-the-celebrity) |
+## Interactive
+|  |
+| ------- |
+| [0277-find-the-celebrity](https://github.com/DylanLi6905/Leetcode/tree/master/0277-find-the-celebrity) |
 <!---LeetCode Topics End-->
