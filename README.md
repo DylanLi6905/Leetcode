@@ -21,6 +21,7 @@ My leetcode practice questions with solutions!
 | [0274-h-index](https://github.com/DylanLi6905/Leetcode/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/DylanLi6905/Leetcode/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DylanLi6905/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0490-the-maze](https://github.com/DylanLi6905/Leetcode/tree/master/0490-the-maze) |
 | [0502-ipo](https://github.com/DylanLi6905/Leetcode/tree/master/0502-ipo) |
 | [0747-min-cost-climbing-stairs](https://github.com/DylanLi6905/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1059-missing-element-in-sorted-array](https://github.com/DylanLi6905/Leetcode/tree/master/1059-missing-element-in-sorted-array) |
@@ -85,6 +86,7 @@ My leetcode practice questions with solutions!
 | [0127-word-ladder](https://github.com/DylanLi6905/Leetcode/tree/master/0127-word-ladder) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/DylanLi6905/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0322-coin-change](https://github.com/DylanLi6905/Leetcode/tree/master/0322-coin-change) |
+| [0490-the-maze](https://github.com/DylanLi6905/Leetcode/tree/master/0490-the-maze) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Linked List
 |  |
@@ -142,6 +144,7 @@ My leetcode practice questions with solutions!
 ## Matrix
 |  |
 | ------- |
+| [0490-the-maze](https://github.com/DylanLi6905/Leetcode/tree/master/0490-the-maze) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Tree
 |  |
@@ -170,6 +173,7 @@ My leetcode practice questions with solutions!
 | [0129-sum-root-to-leaf-numbers](https://github.com/DylanLi6905/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/DylanLi6905/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0490-the-maze](https://github.com/DylanLi6905/Leetcode/tree/master/0490-the-maze) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0545-boundary-of-binary-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0545-boundary-of-binary-tree) |
 ## Binary Tree
