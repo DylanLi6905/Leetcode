@@ -98,6 +98,7 @@ My leetcode practice questions with solutions!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DylanLi6905/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/DylanLi6905/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/DylanLi6905/Leetcode/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
