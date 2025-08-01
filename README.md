@@ -22,6 +22,7 @@ My leetcode practice questions with solutions!
 | [0274-h-index](https://github.com/DylanLi6905/Leetcode/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/DylanLi6905/Leetcode/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DylanLi6905/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0487-max-consecutive-ones-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0490-the-maze](https://github.com/DylanLi6905/Leetcode/tree/master/0490-the-maze) |
 | [0502-ipo](https://github.com/DylanLi6905/Leetcode/tree/master/0502-ipo) |
 | [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
@@ -49,6 +50,7 @@ My leetcode practice questions with solutions!
 | [0265-paint-house-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0265-paint-house-ii) |
 | [0276-paint-fence](https://github.com/DylanLi6905/Leetcode/tree/master/0276-paint-fence) |
 | [0322-coin-change](https://github.com/DylanLi6905/Leetcode/tree/master/0322-coin-change) |
+| [0487-max-consecutive-ones-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0651-4-keys-keyboard](https://github.com/DylanLi6905/Leetcode/tree/master/0651-4-keys-keyboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/DylanLi6905/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 ## Greedy
@@ -138,6 +140,7 @@ My leetcode practice questions with solutions!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DylanLi6905/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/DylanLi6905/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0487-max-consecutive-ones-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0487-max-consecutive-ones-ii) |
 ## Prefix Sum
 |  |
 | ------- |
