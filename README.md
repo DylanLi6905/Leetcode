@@ -24,6 +24,7 @@ My leetcode practice questions with solutions!
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DylanLi6905/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0490-the-maze](https://github.com/DylanLi6905/Leetcode/tree/master/0490-the-maze) |
 | [0502-ipo](https://github.com/DylanLi6905/Leetcode/tree/master/0502-ipo) |
+| [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
 | [0739-daily-temperatures](https://github.com/DylanLi6905/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/DylanLi6905/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1059-missing-element-in-sorted-array](https://github.com/DylanLi6905/Leetcode/tree/master/1059-missing-element-in-sorted-array) |
@@ -69,6 +70,7 @@ My leetcode practice questions with solutions!
 | [0139-word-break](https://github.com/DylanLi6905/Leetcode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/DylanLi6905/Leetcode/tree/master/0202-happy-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/DylanLi6905/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
 | [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 ## String
 |  |
@@ -91,6 +93,7 @@ My leetcode practice questions with solutions!
 | [0322-coin-change](https://github.com/DylanLi6905/Leetcode/tree/master/0322-coin-change) |
 | [0490-the-maze](https://github.com/DylanLi6905/Leetcode/tree/master/0490-the-maze) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
 ## Linked List
 |  |
 | ------- |
@@ -167,6 +170,7 @@ My leetcode practice questions with solutions!
 | [0314-binary-tree-vertical-order-traversal](https://github.com/DylanLi6905/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0545-boundary-of-binary-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0545-boundary-of-binary-tree) |
+| [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -182,6 +186,7 @@ My leetcode practice questions with solutions!
 | [0490-the-maze](https://github.com/DylanLi6905/Leetcode/tree/master/0490-the-maze) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0545-boundary-of-binary-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0545-boundary-of-binary-tree) |
+| [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
 ## Binary Tree
 |  |
 | ------- |
