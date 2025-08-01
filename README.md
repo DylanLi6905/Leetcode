@@ -73,6 +73,7 @@ My leetcode practice questions with solutions!
 | [0202-happy-number](https://github.com/DylanLi6905/Leetcode/tree/master/0202-happy-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/DylanLi6905/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
+| [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/DylanLi6905/Leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 ## String
 |  |
@@ -82,6 +83,7 @@ My leetcode practice questions with solutions!
 | [0076-minimum-window-substring](https://github.com/DylanLi6905/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/DylanLi6905/Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/DylanLi6905/Leetcode/tree/master/0139-word-break) |
+| [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/DylanLi6905/Leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [3379-score-of-a-string](https://github.com/DylanLi6905/Leetcode/tree/master/3379-score-of-a-string) |
 ## Breadth-First Search
 |  |
@@ -141,6 +143,7 @@ My leetcode practice questions with solutions!
 | [0076-minimum-window-substring](https://github.com/DylanLi6905/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0487-max-consecutive-ones-ii) |
+| [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/DylanLi6905/Leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 ## Prefix Sum
 |  |
 | ------- |
