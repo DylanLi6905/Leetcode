@@ -50,6 +50,7 @@ My leetcode practice questions with solutions!
 | [0265-paint-house-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0265-paint-house-ii) |
 | [0276-paint-fence](https://github.com/DylanLi6905/Leetcode/tree/master/0276-paint-fence) |
 | [0322-coin-change](https://github.com/DylanLi6905/Leetcode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/DylanLi6905/Leetcode/tree/master/0338-counting-bits) |
 | [0487-max-consecutive-ones-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0651-4-keys-keyboard](https://github.com/DylanLi6905/Leetcode/tree/master/0651-4-keys-keyboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/DylanLi6905/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -280,4 +281,8 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [0511-all-paths-from-source-lead-to-destination](https://github.com/DylanLi6905/Leetcode/tree/master/0511-all-paths-from-source-lead-to-destination) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/DylanLi6905/Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
