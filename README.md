@@ -34,6 +34,7 @@ My leetcode practice questions with solutions!
 | [1039-find-the-town-judge](https://github.com/DylanLi6905/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1059-missing-element-in-sorted-array](https://github.com/DylanLi6905/Leetcode/tree/master/1059-missing-element-in-sorted-array) |
 | [1073-number-of-enclaves](https://github.com/DylanLi6905/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DylanLi6905/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Backtracking
@@ -63,6 +64,7 @@ My leetcode practice questions with solutions!
 | [0494-target-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0494-target-sum) |
 | [0651-4-keys-keyboard](https://github.com/DylanLi6905/Leetcode/tree/master/0651-4-keys-keyboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/DylanLi6905/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DylanLi6905/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -86,6 +88,7 @@ My leetcode practice questions with solutions!
 | [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
 | [1039-find-the-town-judge](https://github.com/DylanLi6905/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/DylanLi6905/Leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DylanLi6905/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 ## String
 |  |
