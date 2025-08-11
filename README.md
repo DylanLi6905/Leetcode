@@ -31,6 +31,7 @@ My leetcode practice questions with solutions!
 | [0747-min-cost-climbing-stairs](https://github.com/DylanLi6905/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1039-find-the-town-judge](https://github.com/DylanLi6905/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1059-missing-element-in-sorted-array](https://github.com/DylanLi6905/Leetcode/tree/master/1059-missing-element-in-sorted-array) |
+| [1073-number-of-enclaves](https://github.com/DylanLi6905/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Backtracking
@@ -106,6 +107,7 @@ My leetcode practice questions with solutions!
 | [0490-the-maze](https://github.com/DylanLi6905/Leetcode/tree/master/0490-the-maze) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
+| [1073-number-of-enclaves](https://github.com/DylanLi6905/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Linked List
 |  |
 | ------- |
@@ -171,6 +173,7 @@ My leetcode practice questions with solutions!
 | [0221-maximal-square](https://github.com/DylanLi6905/Leetcode/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/DylanLi6905/Leetcode/tree/master/0463-island-perimeter) |
 | [0490-the-maze](https://github.com/DylanLi6905/Leetcode/tree/master/0490-the-maze) |
+| [1073-number-of-enclaves](https://github.com/DylanLi6905/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Tree
 |  |
@@ -207,6 +210,7 @@ My leetcode practice questions with solutions!
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0545-boundary-of-binary-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
+| [1073-number-of-enclaves](https://github.com/DylanLi6905/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -297,4 +301,8 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/DylanLi6905/Leetcode/tree/master/0338-counting-bits) |
+## Union Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/DylanLi6905/Leetcode/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
