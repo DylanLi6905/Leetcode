@@ -28,6 +28,7 @@ My leetcode practice questions with solutions!
 | [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
 | [0739-daily-temperatures](https://github.com/DylanLi6905/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/DylanLi6905/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [1039-find-the-town-judge](https://github.com/DylanLi6905/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1059-missing-element-in-sorted-array](https://github.com/DylanLi6905/Leetcode/tree/master/1059-missing-element-in-sorted-array) |
 | [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -75,6 +76,7 @@ My leetcode practice questions with solutions!
 | [0314-binary-tree-vertical-order-traversal](https://github.com/DylanLi6905/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/DylanLi6905/Leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
+| [1039-find-the-town-judge](https://github.com/DylanLi6905/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/DylanLi6905/Leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 ## String
@@ -277,6 +279,7 @@ My leetcode practice questions with solutions!
 | ------- |
 | [0277-find-the-celebrity](https://github.com/DylanLi6905/Leetcode/tree/master/0277-find-the-celebrity) |
 | [0511-all-paths-from-source-lead-to-destination](https://github.com/DylanLi6905/Leetcode/tree/master/0511-all-paths-from-source-lead-to-destination) |
+| [1039-find-the-town-judge](https://github.com/DylanLi6905/Leetcode/tree/master/1039-find-the-town-judge) |
 ## Interactive
 |  |
 | ------- |
