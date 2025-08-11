@@ -280,6 +280,7 @@ My leetcode practice questions with solutions!
 | [0277-find-the-celebrity](https://github.com/DylanLi6905/Leetcode/tree/master/0277-find-the-celebrity) |
 | [0511-all-paths-from-source-lead-to-destination](https://github.com/DylanLi6905/Leetcode/tree/master/0511-all-paths-from-source-lead-to-destination) |
 | [1039-find-the-town-judge](https://github.com/DylanLi6905/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1738-maximal-network-rank](https://github.com/DylanLi6905/Leetcode/tree/master/1738-maximal-network-rank) |
 ## Interactive
 |  |
 | ------- |
