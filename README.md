@@ -25,6 +25,7 @@ My leetcode practice questions with solutions!
 | [0463-island-perimeter](https://github.com/DylanLi6905/Leetcode/tree/master/0463-island-perimeter) |
 | [0487-max-consecutive-ones-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0490-the-maze](https://github.com/DylanLi6905/Leetcode/tree/master/0490-the-maze) |
+| [0494-target-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/DylanLi6905/Leetcode/tree/master/0502-ipo) |
 | [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
 | [0739-daily-temperatures](https://github.com/DylanLi6905/Leetcode/tree/master/0739-daily-temperatures) |
@@ -39,6 +40,7 @@ My leetcode practice questions with solutions!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DylanLi6905/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0039-combination-sum) |
+| [0494-target-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +58,7 @@ My leetcode practice questions with solutions!
 | [0322-coin-change](https://github.com/DylanLi6905/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/DylanLi6905/Leetcode/tree/master/0338-counting-bits) |
 | [0487-max-consecutive-ones-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0487-max-consecutive-ones-ii) |
+| [0494-target-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0494-target-sum) |
 | [0651-4-keys-keyboard](https://github.com/DylanLi6905/Leetcode/tree/master/0651-4-keys-keyboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/DylanLi6905/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 ## Greedy
