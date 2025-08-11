@@ -178,6 +178,7 @@ My leetcode practice questions with solutions!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DylanLi6905/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/DylanLi6905/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -194,6 +195,7 @@ My leetcode practice questions with solutions!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DylanLi6905/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/DylanLi6905/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0490-the-maze](https://github.com/DylanLi6905/Leetcode/tree/master/0490-the-maze) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -210,6 +212,7 @@ My leetcode practice questions with solutions!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DylanLi6905/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/DylanLi6905/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -238,6 +241,7 @@ My leetcode practice questions with solutions!
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Stack
