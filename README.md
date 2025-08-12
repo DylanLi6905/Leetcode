@@ -215,6 +215,7 @@ My leetcode practice questions with solutions!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DylanLi6905/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0101-symmetric-tree) |
@@ -234,6 +235,7 @@ My leetcode practice questions with solutions!
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DylanLi6905/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0101-symmetric-tree) |
@@ -255,6 +257,7 @@ My leetcode practice questions with solutions!
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DylanLi6905/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0101-symmetric-tree) |
@@ -300,6 +303,7 @@ My leetcode practice questions with solutions!
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DylanLi6905/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DylanLi6905/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/DylanLi6905/Leetcode/tree/master/0155-min-stack) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
