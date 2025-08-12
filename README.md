@@ -55,6 +55,7 @@ My leetcode practice questions with solutions!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/DylanLi6905/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DylanLi6905/Leetcode/tree/master/0055-jump-game) |
 | [0097-interleaving-string](https://github.com/DylanLi6905/Leetcode/tree/master/0097-interleaving-string) |
@@ -118,6 +119,7 @@ My leetcode practice questions with solutions!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DylanLi6905/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DylanLi6905/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/DylanLi6905/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/DylanLi6905/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/DylanLi6905/Leetcode/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/DylanLi6905/Leetcode/tree/master/0127-word-ladder) |
@@ -303,6 +305,7 @@ My leetcode practice questions with solutions!
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/DylanLi6905/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DylanLi6905/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DylanLi6905/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/DylanLi6905/Leetcode/tree/master/0155-min-stack) |
