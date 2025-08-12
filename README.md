@@ -25,6 +25,7 @@ My leetcode practice questions with solutions!
 | [0368-largest-divisible-subset](https://github.com/DylanLi6905/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DylanLi6905/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0463-island-perimeter](https://github.com/DylanLi6905/Leetcode/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/DylanLi6905/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0487-max-consecutive-ones-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0490-the-maze](https://github.com/DylanLi6905/Leetcode/tree/master/0490-the-maze) |
 | [0494-target-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0494-target-sum) |
@@ -67,6 +68,7 @@ My leetcode practice questions with solutions!
 | [0337-house-robber-iii](https://github.com/DylanLi6905/Leetcode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/DylanLi6905/Leetcode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/DylanLi6905/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0474-ones-and-zeroes](https://github.com/DylanLi6905/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0487-max-consecutive-ones-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0494-target-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0518-coin-change-ii) |
@@ -115,6 +117,7 @@ My leetcode practice questions with solutions!
 | [0139-word-break](https://github.com/DylanLi6905/Leetcode/tree/master/0139-word-break) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/DylanLi6905/Leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0439-ternary-expression-parser](https://github.com/DylanLi6905/Leetcode/tree/master/0439-ternary-expression-parser) |
+| [0474-ones-and-zeroes](https://github.com/DylanLi6905/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/DylanLi6905/Leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [3379-score-of-a-string](https://github.com/DylanLi6905/Leetcode/tree/master/3379-score-of-a-string) |
 ## Breadth-First Search
