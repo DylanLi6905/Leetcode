@@ -11,6 +11,7 @@ My leetcode practice questions with solutions!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DylanLi6905/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/DylanLi6905/Leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/DylanLi6905/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DylanLi6905/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DylanLi6905/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/DylanLi6905/Leetcode/tree/master/0198-house-robber) |
@@ -59,6 +60,7 @@ My leetcode practice questions with solutions!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DylanLi6905/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/DylanLi6905/Leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/DylanLi6905/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/DylanLi6905/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/DylanLi6905/Leetcode/tree/master/0221-maximal-square) |
