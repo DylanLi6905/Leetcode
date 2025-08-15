@@ -34,6 +34,7 @@ My leetcode practice questions with solutions!
 | [0502-ipo](https://github.com/DylanLi6905/Leetcode/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0518-coin-change-ii) |
 | [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
+| [0646-maximum-length-of-pair-chain](https://github.com/DylanLi6905/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0739-daily-temperatures](https://github.com/DylanLi6905/Leetcode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/DylanLi6905/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/DylanLi6905/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -81,6 +82,7 @@ My leetcode practice questions with solutions!
 | [0494-target-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0518-coin-change-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/DylanLi6905/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0651-4-keys-keyboard](https://github.com/DylanLi6905/Leetcode/tree/master/0651-4-keys-keyboard) |
 | [0740-delete-and-earn](https://github.com/DylanLi6905/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/DylanLi6905/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -97,6 +99,7 @@ My leetcode practice questions with solutions!
 | [0055-jump-game](https://github.com/DylanLi6905/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0502-ipo](https://github.com/DylanLi6905/Leetcode/tree/master/0502-ipo) |
+| [0646-maximum-length-of-pair-chain](https://github.com/DylanLi6905/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1448-maximum-69-number](https://github.com/DylanLi6905/Leetcode/tree/master/1448-maximum-69-number) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DylanLi6905/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
@@ -194,6 +197,7 @@ My leetcode practice questions with solutions!
 | [0314-binary-tree-vertical-order-traversal](https://github.com/DylanLi6905/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0368-largest-divisible-subset](https://github.com/DylanLi6905/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0502-ipo](https://github.com/DylanLi6905/Leetcode/tree/master/0502-ipo) |
+| [0646-maximum-length-of-pair-chain](https://github.com/DylanLi6905/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Sliding Window
 |  |
