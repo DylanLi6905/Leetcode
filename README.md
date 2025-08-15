@@ -39,6 +39,7 @@ My leetcode practice questions with solutions!
 | [0739-daily-temperatures](https://github.com/DylanLi6905/Leetcode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/DylanLi6905/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/DylanLi6905/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0954-maximum-sum-circular-subarray](https://github.com/DylanLi6905/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1039-find-the-town-judge](https://github.com/DylanLi6905/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1059-missing-element-in-sorted-array](https://github.com/DylanLi6905/Leetcode/tree/master/1059-missing-element-in-sorted-array) |
 | [1073-number-of-enclaves](https://github.com/DylanLi6905/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -88,6 +89,7 @@ My leetcode practice questions with solutions!
 | [0651-4-keys-keyboard](https://github.com/DylanLi6905/Leetcode/tree/master/0651-4-keys-keyboard) |
 | [0740-delete-and-earn](https://github.com/DylanLi6905/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/DylanLi6905/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0954-maximum-sum-circular-subarray](https://github.com/DylanLi6905/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/DylanLi6905/Leetcode/tree/master/1013-fibonacci-number) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/DylanLi6905/Leetcode/tree/master/1105-uncrossed-lines) |
@@ -345,6 +347,7 @@ My leetcode practice questions with solutions!
 ## Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/DylanLi6905/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 ## Monotonic Stack
 |  |
@@ -382,4 +385,9 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DylanLi6905/Leetcode/tree/master/0053-maximum-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/DylanLi6905/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/DylanLi6905/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
