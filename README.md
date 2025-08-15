@@ -35,6 +35,7 @@ My leetcode practice questions with solutions!
 | [0518-coin-change-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0518-coin-change-ii) |
 | [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
 | [0739-daily-temperatures](https://github.com/DylanLi6905/Leetcode/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/DylanLi6905/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/DylanLi6905/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1039-find-the-town-judge](https://github.com/DylanLi6905/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1059-missing-element-in-sorted-array](https://github.com/DylanLi6905/Leetcode/tree/master/1059-missing-element-in-sorted-array) |
@@ -79,6 +80,7 @@ My leetcode practice questions with solutions!
 | [0494-target-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0518-coin-change-ii) |
 | [0651-4-keys-keyboard](https://github.com/DylanLi6905/Leetcode/tree/master/0651-4-keys-keyboard) |
+| [0740-delete-and-earn](https://github.com/DylanLi6905/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/DylanLi6905/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/DylanLi6905/Leetcode/tree/master/1013-fibonacci-number) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
@@ -108,6 +110,7 @@ My leetcode practice questions with solutions!
 | [0314-binary-tree-vertical-order-traversal](https://github.com/DylanLi6905/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/DylanLi6905/Leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
+| [0740-delete-and-earn](https://github.com/DylanLi6905/Leetcode/tree/master/0740-delete-and-earn) |
 | [1039-find-the-town-judge](https://github.com/DylanLi6905/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/DylanLi6905/Leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
