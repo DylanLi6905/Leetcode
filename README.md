@@ -7,6 +7,7 @@ My leetcode practice questions with solutions!
 | [0015-3sum](https://github.com/DylanLi6905/Leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/DylanLi6905/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DylanLi6905/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DylanLi6905/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -59,6 +60,7 @@ My leetcode practice questions with solutions!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DylanLi6905/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/DylanLi6905/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DylanLi6905/Leetcode/tree/master/0055-jump-game) |
 | [0097-interleaving-string](https://github.com/DylanLi6905/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/DylanLi6905/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -376,4 +378,8 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [1522-stone-game-iii](https://github.com/DylanLi6905/Leetcode/tree/master/1522-stone-game-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/DylanLi6905/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
