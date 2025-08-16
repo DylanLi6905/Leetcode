@@ -41,6 +41,7 @@ My leetcode practice questions with solutions!
 | [0740-delete-and-earn](https://github.com/DylanLi6905/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/DylanLi6905/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DylanLi6905/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1025-minimum-cost-for-tickets](https://github.com/DylanLi6905/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1039-find-the-town-judge](https://github.com/DylanLi6905/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1059-missing-element-in-sorted-array](https://github.com/DylanLi6905/Leetcode/tree/master/1059-missing-element-in-sorted-array) |
 | [1073-number-of-enclaves](https://github.com/DylanLi6905/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -95,6 +96,7 @@ My leetcode practice questions with solutions!
 | [0747-min-cost-climbing-stairs](https://github.com/DylanLi6905/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DylanLi6905/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/DylanLi6905/Leetcode/tree/master/1013-fibonacci-number) |
+| [1025-minimum-cost-for-tickets](https://github.com/DylanLi6905/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/DylanLi6905/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/DylanLi6905/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
