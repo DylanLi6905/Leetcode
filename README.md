@@ -80,6 +80,7 @@ My leetcode practice questions with solutions!
 | [0256-paint-house](https://github.com/DylanLi6905/Leetcode/tree/master/0256-paint-house) |
 | [0265-paint-house-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0265-paint-house-ii) |
 | [0276-paint-fence](https://github.com/DylanLi6905/Leetcode/tree/master/0276-paint-fence) |
+| [0279-perfect-squares](https://github.com/DylanLi6905/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/DylanLi6905/Leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/DylanLi6905/Leetcode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/DylanLi6905/Leetcode/tree/master/0338-counting-bits) |
@@ -163,6 +164,7 @@ My leetcode practice questions with solutions!
 | [0112-path-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/DylanLi6905/Leetcode/tree/master/0127-word-ladder) |
+| [0279-perfect-squares](https://github.com/DylanLi6905/Leetcode/tree/master/0279-perfect-squares) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/DylanLi6905/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0322-coin-change](https://github.com/DylanLi6905/Leetcode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/DylanLi6905/Leetcode/tree/master/0463-island-perimeter) |
@@ -352,6 +354,7 @@ My leetcode practice questions with solutions!
 | [0096-unique-binary-search-trees](https://github.com/DylanLi6905/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/DylanLi6905/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DylanLi6905/Leetcode/tree/master/0202-happy-number) |
+| [0279-perfect-squares](https://github.com/DylanLi6905/Leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/DylanLi6905/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0651-4-keys-keyboard](https://github.com/DylanLi6905/Leetcode/tree/master/0651-4-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/DylanLi6905/Leetcode/tree/master/1013-fibonacci-number) |
