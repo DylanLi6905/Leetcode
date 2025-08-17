@@ -27,6 +27,7 @@ My leetcode practice questions with solutions!
 | [0354-russian-doll-envelopes](https://github.com/DylanLi6905/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/DylanLi6905/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DylanLi6905/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0376-wiggle-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/DylanLi6905/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/DylanLi6905/Leetcode/tree/master/0463-island-perimeter) |
@@ -87,6 +88,7 @@ My leetcode practice questions with solutions!
 | [0338-counting-bits](https://github.com/DylanLi6905/Leetcode/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/DylanLi6905/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/DylanLi6905/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/DylanLi6905/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/DylanLi6905/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -115,6 +117,7 @@ My leetcode practice questions with solutions!
 | [0045-jump-game-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DylanLi6905/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0376-wiggle-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0502-ipo](https://github.com/DylanLi6905/Leetcode/tree/master/0502-ipo) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DylanLi6905/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1448-maximum-69-number](https://github.com/DylanLi6905/Leetcode/tree/master/1448-maximum-69-number) |
