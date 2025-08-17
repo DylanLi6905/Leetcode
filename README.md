@@ -54,6 +54,7 @@ My leetcode practice questions with solutions!
 | [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1522-stone-game-iii](https://github.com/DylanLi6905/Leetcode/tree/master/1522-stone-game-iii) |
+| [1559-cherry-pickup-ii](https://github.com/DylanLi6905/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/DylanLi6905/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DylanLi6905/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
@@ -114,6 +115,7 @@ My leetcode practice questions with solutions!
 | [1332-count-vowels-permutation](https://github.com/DylanLi6905/Leetcode/tree/master/1332-count-vowels-permutation) |
 | [1517-restore-the-array](https://github.com/DylanLi6905/Leetcode/tree/master/1517-restore-the-array) |
 | [1522-stone-game-iii](https://github.com/DylanLi6905/Leetcode/tree/master/1522-stone-game-iii) |
+| [1559-cherry-pickup-ii](https://github.com/DylanLi6905/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/DylanLi6905/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2562-count-ways-to-build-good-strings](https://github.com/DylanLi6905/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Greedy
@@ -262,6 +264,7 @@ My leetcode practice questions with solutions!
 | [0490-the-maze](https://github.com/DylanLi6905/Leetcode/tree/master/0490-the-maze) |
 | [1073-number-of-enclaves](https://github.com/DylanLi6905/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1559-cherry-pickup-ii](https://github.com/DylanLi6905/Leetcode/tree/master/1559-cherry-pickup-ii) |
 ## Tree
 |  |
 | ------- |
