@@ -109,6 +109,7 @@ My leetcode practice questions with solutions!
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/DylanLi6905/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DylanLi6905/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1332-count-vowels-permutation](https://github.com/DylanLi6905/Leetcode/tree/master/1332-count-vowels-permutation) |
+| [1517-restore-the-array](https://github.com/DylanLi6905/Leetcode/tree/master/1517-restore-the-array) |
 | [1522-stone-game-iii](https://github.com/DylanLi6905/Leetcode/tree/master/1522-stone-game-iii) |
 | [2562-count-ways-to-build-good-strings](https://github.com/DylanLi6905/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Greedy
@@ -162,6 +163,7 @@ My leetcode practice questions with solutions!
 | [0516-longest-palindromic-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/DylanLi6905/Leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1129-longest-string-chain](https://github.com/DylanLi6905/Leetcode/tree/master/1129-longest-string-chain) |
+| [1517-restore-the-array](https://github.com/DylanLi6905/Leetcode/tree/master/1517-restore-the-array) |
 | [3379-score-of-a-string](https://github.com/DylanLi6905/Leetcode/tree/master/3379-score-of-a-string) |
 ## Breadth-First Search
 |  |
