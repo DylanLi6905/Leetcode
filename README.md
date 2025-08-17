@@ -106,6 +106,7 @@ My leetcode practice questions with solutions!
 | [1087-longest-arithmetic-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/DylanLi6905/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/DylanLi6905/Leetcode/tree/master/1129-longest-string-chain) |
+| [1213-handshakes-that-dont-cross](https://github.com/DylanLi6905/Leetcode/tree/master/1213-handshakes-that-dont-cross) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/DylanLi6905/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DylanLi6905/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1332-count-vowels-permutation](https://github.com/DylanLi6905/Leetcode/tree/master/1332-count-vowels-permutation) |
@@ -369,6 +370,7 @@ My leetcode practice questions with solutions!
 | [0368-largest-divisible-subset](https://github.com/DylanLi6905/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0651-4-keys-keyboard](https://github.com/DylanLi6905/Leetcode/tree/master/0651-4-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/DylanLi6905/Leetcode/tree/master/1013-fibonacci-number) |
+| [1213-handshakes-that-dont-cross](https://github.com/DylanLi6905/Leetcode/tree/master/1213-handshakes-that-dont-cross) |
 | [1448-maximum-69-number](https://github.com/DylanLi6905/Leetcode/tree/master/1448-maximum-69-number) |
 | [1522-stone-game-iii](https://github.com/DylanLi6905/Leetcode/tree/master/1522-stone-game-iii) |
 ## Counting Sort
