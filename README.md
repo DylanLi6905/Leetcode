@@ -53,6 +53,7 @@ My leetcode practice questions with solutions!
 | [1129-longest-string-chain](https://github.com/DylanLi6905/Leetcode/tree/master/1129-longest-string-chain) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DylanLi6905/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/DylanLi6905/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1522-stone-game-iii](https://github.com/DylanLi6905/Leetcode/tree/master/1522-stone-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/DylanLi6905/Leetcode/tree/master/1559-cherry-pickup-ii) |
@@ -116,6 +117,7 @@ My leetcode practice questions with solutions!
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/DylanLi6905/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DylanLi6905/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1332-count-vowels-permutation](https://github.com/DylanLi6905/Leetcode/tree/master/1332-count-vowels-permutation) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/DylanLi6905/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1517-restore-the-array](https://github.com/DylanLi6905/Leetcode/tree/master/1517-restore-the-array) |
 | [1522-stone-game-iii](https://github.com/DylanLi6905/Leetcode/tree/master/1522-stone-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/DylanLi6905/Leetcode/tree/master/1559-cherry-pickup-ii) |
