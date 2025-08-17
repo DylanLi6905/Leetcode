@@ -48,6 +48,7 @@ My leetcode practice questions with solutions!
 | [1073-number-of-enclaves](https://github.com/DylanLi6905/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/DylanLi6905/Leetcode/tree/master/1105-uncrossed-lines) |
+| [1129-longest-string-chain](https://github.com/DylanLi6905/Leetcode/tree/master/1129-longest-string-chain) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DylanLi6905/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -102,6 +103,7 @@ My leetcode practice questions with solutions!
 | [1025-minimum-cost-for-tickets](https://github.com/DylanLi6905/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/DylanLi6905/Leetcode/tree/master/1105-uncrossed-lines) |
+| [1129-longest-string-chain](https://github.com/DylanLi6905/Leetcode/tree/master/1129-longest-string-chain) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/DylanLi6905/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DylanLi6905/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1332-count-vowels-permutation](https://github.com/DylanLi6905/Leetcode/tree/master/1332-count-vowels-permutation) |
@@ -134,6 +136,7 @@ My leetcode practice questions with solutions!
 | [1039-find-the-town-judge](https://github.com/DylanLi6905/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/DylanLi6905/Leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1129-longest-string-chain](https://github.com/DylanLi6905/Leetcode/tree/master/1129-longest-string-chain) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DylanLi6905/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DylanLi6905/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -155,6 +158,7 @@ My leetcode practice questions with solutions!
 | [0474-ones-and-zeroes](https://github.com/DylanLi6905/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/DylanLi6905/Leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
+| [1129-longest-string-chain](https://github.com/DylanLi6905/Leetcode/tree/master/1129-longest-string-chain) |
 | [3379-score-of-a-string](https://github.com/DylanLi6905/Leetcode/tree/master/3379-score-of-a-string) |
 ## Breadth-First Search
 |  |
@@ -197,6 +201,7 @@ My leetcode practice questions with solutions!
 | [0202-happy-number](https://github.com/DylanLi6905/Leetcode/tree/master/0202-happy-number) |
 | [0277-find-the-celebrity](https://github.com/DylanLi6905/Leetcode/tree/master/0277-find-the-celebrity) |
 | [0295-find-median-from-data-stream](https://github.com/DylanLi6905/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [1129-longest-string-chain](https://github.com/DylanLi6905/Leetcode/tree/master/1129-longest-string-chain) |
 ## Binary Search
 |  |
 | ------- |
@@ -217,6 +222,7 @@ My leetcode practice questions with solutions!
 | [0368-largest-divisible-subset](https://github.com/DylanLi6905/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0502-ipo](https://github.com/DylanLi6905/Leetcode/tree/master/0502-ipo) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DylanLi6905/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1129-longest-string-chain](https://github.com/DylanLi6905/Leetcode/tree/master/1129-longest-string-chain) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Sliding Window
 |  |
