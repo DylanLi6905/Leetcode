@@ -113,6 +113,7 @@ My leetcode practice questions with solutions!
 | [0646-maximum-length-of-pair-chain](https://github.com/DylanLi6905/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0651-4-keys-keyboard](https://github.com/DylanLi6905/Leetcode/tree/master/0651-4-keys-keyboard) |
 | [0664-strange-printer](https://github.com/DylanLi6905/Leetcode/tree/master/0664-strange-printer) |
+| [0688-knight-probability-in-chessboard](https://github.com/DylanLi6905/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0740-delete-and-earn](https://github.com/DylanLi6905/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/DylanLi6905/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DylanLi6905/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
