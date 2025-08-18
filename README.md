@@ -113,6 +113,7 @@ My leetcode practice questions with solutions!
 | [0740-delete-and-earn](https://github.com/DylanLi6905/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/DylanLi6905/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DylanLi6905/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0956-number-of-music-playlists](https://github.com/DylanLi6905/Leetcode/tree/master/0956-number-of-music-playlists) |
 | [1013-fibonacci-number](https://github.com/DylanLi6905/Leetcode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/DylanLi6905/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
@@ -399,6 +400,7 @@ My leetcode practice questions with solutions!
 | [0279-perfect-squares](https://github.com/DylanLi6905/Leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/DylanLi6905/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0651-4-keys-keyboard](https://github.com/DylanLi6905/Leetcode/tree/master/0651-4-keys-keyboard) |
+| [0956-number-of-music-playlists](https://github.com/DylanLi6905/Leetcode/tree/master/0956-number-of-music-playlists) |
 | [1013-fibonacci-number](https://github.com/DylanLi6905/Leetcode/tree/master/1013-fibonacci-number) |
 | [1213-handshakes-that-dont-cross](https://github.com/DylanLi6905/Leetcode/tree/master/1213-handshakes-that-dont-cross) |
 | [1448-maximum-69-number](https://github.com/DylanLi6905/Leetcode/tree/master/1448-maximum-69-number) |
@@ -455,4 +457,8 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/DylanLi6905/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [0956-number-of-music-playlists](https://github.com/DylanLi6905/Leetcode/tree/master/0956-number-of-music-playlists) |
 <!---LeetCode Topics End-->
