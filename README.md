@@ -56,6 +56,7 @@ My leetcode practice questions with solutions!
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/DylanLi6905/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1522-stone-game-iii](https://github.com/DylanLi6905/Leetcode/tree/master/1522-stone-game-iii) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/DylanLi6905/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1559-cherry-pickup-ii](https://github.com/DylanLi6905/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1583-paint-house-iii](https://github.com/DylanLi6905/Leetcode/tree/master/1583-paint-house-iii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DylanLi6905/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -126,6 +127,7 @@ My leetcode practice questions with solutions!
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/DylanLi6905/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1517-restore-the-array](https://github.com/DylanLi6905/Leetcode/tree/master/1517-restore-the-array) |
 | [1522-stone-game-iii](https://github.com/DylanLi6905/Leetcode/tree/master/1522-stone-game-iii) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/DylanLi6905/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1559-cherry-pickup-ii](https://github.com/DylanLi6905/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1583-paint-house-iii](https://github.com/DylanLi6905/Leetcode/tree/master/1583-paint-house-iii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DylanLi6905/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -269,6 +271,7 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/DylanLi6905/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -284,6 +287,7 @@ My leetcode practice questions with solutions!
 | [0490-the-maze](https://github.com/DylanLi6905/Leetcode/tree/master/0490-the-maze) |
 | [1073-number-of-enclaves](https://github.com/DylanLi6905/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/DylanLi6905/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1559-cherry-pickup-ii](https://github.com/DylanLi6905/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/DylanLi6905/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Tree
@@ -370,6 +374,7 @@ My leetcode practice questions with solutions!
 | ------- |
 | [0139-word-break](https://github.com/DylanLi6905/Leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/DylanLi6905/Leetcode/tree/master/1013-fibonacci-number) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/DylanLi6905/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1680-count-all-possible-routes](https://github.com/DylanLi6905/Leetcode/tree/master/1680-count-all-possible-routes) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/DylanLi6905/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Binary Search Tree
