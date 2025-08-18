@@ -58,6 +58,7 @@ My leetcode practice questions with solutions!
 | [1522-stone-game-iii](https://github.com/DylanLi6905/Leetcode/tree/master/1522-stone-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/DylanLi6905/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1583-paint-house-iii](https://github.com/DylanLi6905/Leetcode/tree/master/1583-paint-house-iii) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/DylanLi6905/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/DylanLi6905/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DylanLi6905/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
@@ -123,6 +124,7 @@ My leetcode practice questions with solutions!
 | [1522-stone-game-iii](https://github.com/DylanLi6905/Leetcode/tree/master/1522-stone-game-iii) |
 | [1559-cherry-pickup-ii](https://github.com/DylanLi6905/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1583-paint-house-iii](https://github.com/DylanLi6905/Leetcode/tree/master/1583-paint-house-iii) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/DylanLi6905/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/DylanLi6905/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2562-count-ways-to-build-good-strings](https://github.com/DylanLi6905/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Greedy
@@ -244,6 +246,7 @@ My leetcode practice questions with solutions!
 | [0646-maximum-length-of-pair-chain](https://github.com/DylanLi6905/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1129-longest-string-chain](https://github.com/DylanLi6905/Leetcode/tree/master/1129-longest-string-chain) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/DylanLi6905/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Sliding Window
 |  |
 | ------- |
