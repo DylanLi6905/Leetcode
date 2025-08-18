@@ -78,6 +78,7 @@ My leetcode practice questions with solutions!
 | [0045-jump-game-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/DylanLi6905/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DylanLi6905/Leetcode/tree/master/0055-jump-game) |
+| [0087-scramble-string](https://github.com/DylanLi6905/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/DylanLi6905/Leetcode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/DylanLi6905/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/DylanLi6905/Leetcode/tree/master/0097-interleaving-string) |
@@ -176,6 +177,7 @@ My leetcode practice questions with solutions!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DylanLi6905/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/DylanLi6905/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/DylanLi6905/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/DylanLi6905/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/DylanLi6905/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/DylanLi6905/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/DylanLi6905/Leetcode/tree/master/0115-distinct-subsequences) |
