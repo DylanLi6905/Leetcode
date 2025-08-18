@@ -51,6 +51,7 @@ My leetcode practice questions with solutions!
 | [1087-longest-arithmetic-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/DylanLi6905/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/DylanLi6905/Leetcode/tree/master/1129-longest-string-chain) |
+| [1166-toss-strange-coins](https://github.com/DylanLi6905/Leetcode/tree/master/1166-toss-strange-coins) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DylanLi6905/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/DylanLi6905/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
@@ -121,6 +122,7 @@ My leetcode practice questions with solutions!
 | [1087-longest-arithmetic-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/DylanLi6905/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/DylanLi6905/Leetcode/tree/master/1129-longest-string-chain) |
+| [1166-toss-strange-coins](https://github.com/DylanLi6905/Leetcode/tree/master/1166-toss-strange-coins) |
 | [1213-handshakes-that-dont-cross](https://github.com/DylanLi6905/Leetcode/tree/master/1213-handshakes-that-dont-cross) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/DylanLi6905/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DylanLi6905/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -409,6 +411,7 @@ My leetcode practice questions with solutions!
 | [0651-4-keys-keyboard](https://github.com/DylanLi6905/Leetcode/tree/master/0651-4-keys-keyboard) |
 | [0956-number-of-music-playlists](https://github.com/DylanLi6905/Leetcode/tree/master/0956-number-of-music-playlists) |
 | [1013-fibonacci-number](https://github.com/DylanLi6905/Leetcode/tree/master/1013-fibonacci-number) |
+| [1166-toss-strange-coins](https://github.com/DylanLi6905/Leetcode/tree/master/1166-toss-strange-coins) |
 | [1213-handshakes-that-dont-cross](https://github.com/DylanLi6905/Leetcode/tree/master/1213-handshakes-that-dont-cross) |
 | [1448-maximum-69-number](https://github.com/DylanLi6905/Leetcode/tree/master/1448-maximum-69-number) |
 | [1522-stone-game-iii](https://github.com/DylanLi6905/Leetcode/tree/master/1522-stone-game-iii) |
@@ -468,4 +471,8 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [0956-number-of-music-playlists](https://github.com/DylanLi6905/Leetcode/tree/master/0956-number-of-music-playlists) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1166-toss-strange-coins](https://github.com/DylanLi6905/Leetcode/tree/master/1166-toss-strange-coins) |
 <!---LeetCode Topics End-->
