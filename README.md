@@ -60,6 +60,7 @@ My leetcode practice questions with solutions!
 | [1583-paint-house-iii](https://github.com/DylanLi6905/Leetcode/tree/master/1583-paint-house-iii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DylanLi6905/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1680-count-all-possible-routes](https://github.com/DylanLi6905/Leetcode/tree/master/1680-count-all-possible-routes) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/DylanLi6905/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/DylanLi6905/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DylanLi6905/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
@@ -127,6 +128,7 @@ My leetcode practice questions with solutions!
 | [1583-paint-house-iii](https://github.com/DylanLi6905/Leetcode/tree/master/1583-paint-house-iii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DylanLi6905/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1680-count-all-possible-routes](https://github.com/DylanLi6905/Leetcode/tree/master/1680-count-all-possible-routes) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/DylanLi6905/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/DylanLi6905/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2562-count-ways-to-build-good-strings](https://github.com/DylanLi6905/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Greedy
@@ -183,6 +185,7 @@ My leetcode practice questions with solutions!
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/DylanLi6905/Leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1129-longest-string-chain](https://github.com/DylanLi6905/Leetcode/tree/master/1129-longest-string-chain) |
 | [1517-restore-the-array](https://github.com/DylanLi6905/Leetcode/tree/master/1517-restore-the-array) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/DylanLi6905/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [3379-score-of-a-string](https://github.com/DylanLi6905/Leetcode/tree/master/3379-score-of-a-string) |
 ## Breadth-First Search
 |  |
