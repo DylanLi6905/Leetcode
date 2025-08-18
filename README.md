@@ -62,6 +62,7 @@ My leetcode practice questions with solutions!
 | [1680-count-all-possible-routes](https://github.com/DylanLi6905/Leetcode/tree/master/1680-count-all-possible-routes) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/DylanLi6905/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/DylanLi6905/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/DylanLi6905/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DylanLi6905/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
 |  |
@@ -130,6 +131,7 @@ My leetcode practice questions with solutions!
 | [1680-count-all-possible-routes](https://github.com/DylanLi6905/Leetcode/tree/master/1680-count-all-possible-routes) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/DylanLi6905/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/DylanLi6905/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/DylanLi6905/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2562-count-ways-to-build-good-strings](https://github.com/DylanLi6905/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Greedy
 |  |
@@ -203,6 +205,7 @@ My leetcode practice questions with solutions!
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
 | [1073-number-of-enclaves](https://github.com/DylanLi6905/Leetcode/tree/master/1073-number-of-enclaves) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/DylanLi6905/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DylanLi6905/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Linked List
 |  |
@@ -281,6 +284,7 @@ My leetcode practice questions with solutions!
 | [1073-number-of-enclaves](https://github.com/DylanLi6905/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/DylanLi6905/Leetcode/tree/master/1559-cherry-pickup-ii) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/DylanLi6905/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -323,6 +327,7 @@ My leetcode practice questions with solutions!
 | [0545-boundary-of-binary-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
 | [1073-number-of-enclaves](https://github.com/DylanLi6905/Leetcode/tree/master/1073-number-of-enclaves) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/DylanLi6905/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DylanLi6905/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -365,6 +370,7 @@ My leetcode practice questions with solutions!
 | [0139-word-break](https://github.com/DylanLi6905/Leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/DylanLi6905/Leetcode/tree/master/1013-fibonacci-number) |
 | [1680-count-all-possible-routes](https://github.com/DylanLi6905/Leetcode/tree/master/1680-count-all-possible-routes) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/DylanLi6905/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -418,6 +424,7 @@ My leetcode practice questions with solutions!
 | [0511-all-paths-from-source-lead-to-destination](https://github.com/DylanLi6905/Leetcode/tree/master/0511-all-paths-from-source-lead-to-destination) |
 | [1039-find-the-town-judge](https://github.com/DylanLi6905/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1738-maximal-network-rank](https://github.com/DylanLi6905/Leetcode/tree/master/1738-maximal-network-rank) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/DylanLi6905/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Interactive
 |  |
 | ------- |
@@ -426,6 +433,7 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [0511-all-paths-from-source-lead-to-destination](https://github.com/DylanLi6905/Leetcode/tree/master/0511-all-paths-from-source-lead-to-destination) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/DylanLi6905/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
