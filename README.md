@@ -59,6 +59,7 @@ My leetcode practice questions with solutions!
 | [1559-cherry-pickup-ii](https://github.com/DylanLi6905/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1583-paint-house-iii](https://github.com/DylanLi6905/Leetcode/tree/master/1583-paint-house-iii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DylanLi6905/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1680-count-all-possible-routes](https://github.com/DylanLi6905/Leetcode/tree/master/1680-count-all-possible-routes) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/DylanLi6905/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DylanLi6905/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
@@ -125,6 +126,7 @@ My leetcode practice questions with solutions!
 | [1559-cherry-pickup-ii](https://github.com/DylanLi6905/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1583-paint-house-iii](https://github.com/DylanLi6905/Leetcode/tree/master/1583-paint-house-iii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DylanLi6905/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1680-count-all-possible-routes](https://github.com/DylanLi6905/Leetcode/tree/master/1680-count-all-possible-routes) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/DylanLi6905/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2562-count-ways-to-build-good-strings](https://github.com/DylanLi6905/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Greedy
@@ -359,6 +361,7 @@ My leetcode practice questions with solutions!
 | ------- |
 | [0139-word-break](https://github.com/DylanLi6905/Leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/DylanLi6905/Leetcode/tree/master/1013-fibonacci-number) |
+| [1680-count-all-possible-routes](https://github.com/DylanLi6905/Leetcode/tree/master/1680-count-all-possible-routes) |
 ## Binary Search Tree
 |  |
 | ------- |
