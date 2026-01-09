@@ -64,6 +64,7 @@ My leetcode practice questions with solutions!
 | [1680-count-all-possible-routes](https://github.com/DylanLi6905/Leetcode/tree/master/1680-count-all-possible-routes) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/DylanLi6905/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/DylanLi6905/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
+| [2270-number-of-ways-to-split-array](https://github.com/DylanLi6905/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/DylanLi6905/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DylanLi6905/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
@@ -280,6 +281,7 @@ My leetcode practice questions with solutions!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/DylanLi6905/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
+| [2270-number-of-ways-to-split-array](https://github.com/DylanLi6905/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
