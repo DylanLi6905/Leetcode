@@ -404,6 +404,7 @@ My leetcode practice questions with solutions!
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/DylanLi6905/Leetcode/tree/master/0009-palindrome-number) |
 | [0096-unique-binary-search-trees](https://github.com/DylanLi6905/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/DylanLi6905/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/DylanLi6905/Leetcode/tree/master/0202-happy-number) |
