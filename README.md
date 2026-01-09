@@ -102,6 +102,7 @@ My leetcode practice questions with solutions!
 | [0368-largest-divisible-subset](https://github.com/DylanLi6905/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/DylanLi6905/Leetcode/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/DylanLi6905/Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/DylanLi6905/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -187,6 +188,7 @@ My leetcode practice questions with solutions!
 | [0127-word-ladder](https://github.com/DylanLi6905/Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/DylanLi6905/Leetcode/tree/master/0139-word-break) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/DylanLi6905/Leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0392-is-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/0392-is-subsequence) |
 | [0439-ternary-expression-parser](https://github.com/DylanLi6905/Leetcode/tree/master/0439-ternary-expression-parser) |
 | [0474-ones-and-zeroes](https://github.com/DylanLi6905/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -239,6 +241,7 @@ My leetcode practice questions with solutions!
 | [0202-happy-number](https://github.com/DylanLi6905/Leetcode/tree/master/0202-happy-number) |
 | [0277-find-the-celebrity](https://github.com/DylanLi6905/Leetcode/tree/master/0277-find-the-celebrity) |
 | [0295-find-median-from-data-stream](https://github.com/DylanLi6905/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/0392-is-subsequence) |
 | [1129-longest-string-chain](https://github.com/DylanLi6905/Leetcode/tree/master/1129-longest-string-chain) |
 ## Binary Search
 |  |
