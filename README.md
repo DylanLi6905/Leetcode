@@ -227,6 +227,7 @@ My leetcode practice questions with solutions!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/DylanLi6905/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/DylanLi6905/Leetcode/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DylanLi6905/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -246,6 +247,7 @@ My leetcode practice questions with solutions!
 | [0295-find-median-from-data-stream](https://github.com/DylanLi6905/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/0392-is-subsequence) |
 | [1129-longest-string-chain](https://github.com/DylanLi6905/Leetcode/tree/master/1129-longest-string-chain) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DylanLi6905/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -408,6 +410,7 @@ My leetcode practice questions with solutions!
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0439-ternary-expression-parser](https://github.com/DylanLi6905/Leetcode/tree/master/0439-ternary-expression-parser) |
 | [0739-daily-temperatures](https://github.com/DylanLi6905/Leetcode/tree/master/0739-daily-temperatures) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DylanLi6905/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
