@@ -222,6 +222,7 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DylanLi6905/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/DylanLi6905/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DylanLi6905/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/DylanLi6905/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -230,6 +231,7 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DylanLi6905/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/DylanLi6905/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0439-ternary-expression-parser](https://github.com/DylanLi6905/Leetcode/tree/master/0439-ternary-expression-parser) |
 | [1013-fibonacci-number](https://github.com/DylanLi6905/Leetcode/tree/master/1013-fibonacci-number) |
