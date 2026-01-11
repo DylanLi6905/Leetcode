@@ -66,6 +66,7 @@ My leetcode practice questions with solutions!
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/DylanLi6905/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2270-number-of-ways-to-split-array](https://github.com/DylanLi6905/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/DylanLi6905/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2540-minimum-common-value](https://github.com/DylanLi6905/Leetcode/tree/master/2540-minimum-common-value) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DylanLi6905/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
 |  |
@@ -174,6 +175,7 @@ My leetcode practice questions with solutions!
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DylanLi6905/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DylanLi6905/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2540-minimum-common-value](https://github.com/DylanLi6905/Leetcode/tree/master/2540-minimum-common-value) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DylanLi6905/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
@@ -252,6 +254,7 @@ My leetcode practice questions with solutions!
 | [0917-reverse-only-letters](https://github.com/DylanLi6905/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1129-longest-string-chain](https://github.com/DylanLi6905/Leetcode/tree/master/1129-longest-string-chain) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DylanLi6905/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/DylanLi6905/Leetcode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -261,6 +264,7 @@ My leetcode practice questions with solutions!
 | [1059-missing-element-in-sorted-array](https://github.com/DylanLi6905/Leetcode/tree/master/1059-missing-element-in-sorted-array) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DylanLi6905/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DylanLi6905/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2540-minimum-common-value](https://github.com/DylanLi6905/Leetcode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
