@@ -1,35 +1,33 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        ListNode copy = copyList(head);
-        copy = reverse(copy);
+        if (head == null || head.next == null) return true;
 
-        while (head != null && copy != null) {
-            if (head.val != copy.val) return false;
-            head = head.next;
-            copy = copy.next;
+        // 1. find middle
+        ListNode slow = head;
+        ListNode fast = head;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        return true;
-    }
 
-    private ListNode copyList(ListNode head) {
-        ListNode dummy = new ListNode(0);
-        ListNode tail = dummy;
-        while (head != null) {
-            tail.next = new ListNode(head.val);
-            tail = tail.next;
-            head = head.next;
-        }
-        return dummy.next;
-    }
-
-    private ListNode reverse(ListNode head) {
+        // 2. reverse second half
         ListNode prev = null;
-        while (head != null) {
-            ListNode next = head.next;
-            head.next = prev;
-            prev = head;
-            head = next;
+        while (slow != null) {
+            ListNode next = slow.next;
+            slow.next = prev;
+            prev = slow;
+            slow = next;
         }
-        return prev;
+
+        // 3. compare halves
+        ListNode left = head;
+        ListNode right = prev;
+        while (right != null) {
+            if (left.val != right.val) return false;
+            left = left.next;
+            right = right.next;
+        }
+
+        return true;
     }
 }
