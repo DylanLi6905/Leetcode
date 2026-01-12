@@ -390,11 +390,13 @@ My leetcode practice questions with solutions!
 | ------- |
 | [0155-min-stack](https://github.com/DylanLi6905/Leetcode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/DylanLi6905/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0933-number-of-recent-calls](https://github.com/DylanLi6905/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DylanLi6905/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0933-number-of-recent-calls](https://github.com/DylanLi6905/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 ## Trie
 |  |
@@ -452,6 +454,7 @@ My leetcode practice questions with solutions!
 ## Queue
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/DylanLi6905/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DylanLi6905/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 ## Monotonic Stack
