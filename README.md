@@ -19,6 +19,7 @@ My leetcode practice questions with solutions!
 | [0209-minimum-size-subarray-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/DylanLi6905/Leetcode/tree/master/0221-maximal-square) |
+| [0239-sliding-window-maximum](https://github.com/DylanLi6905/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0256-paint-house](https://github.com/DylanLi6905/Leetcode/tree/master/0256-paint-house) |
 | [0265-paint-house-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0265-paint-house-ii) |
@@ -294,6 +295,7 @@ My leetcode practice questions with solutions!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DylanLi6905/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/DylanLi6905/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/DylanLi6905/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/DylanLi6905/Leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0487-max-consecutive-ones-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/DylanLi6905/Leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
@@ -306,6 +308,7 @@ My leetcode practice questions with solutions!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/DylanLi6905/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/DylanLi6905/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DylanLi6905/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/DylanLi6905/Leetcode/tree/master/0502-ipo) |
@@ -454,6 +457,7 @@ My leetcode practice questions with solutions!
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/DylanLi6905/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/DylanLi6905/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DylanLi6905/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
@@ -499,6 +503,7 @@ My leetcode practice questions with solutions!
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/DylanLi6905/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DylanLi6905/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Combinatorics
 |  |
