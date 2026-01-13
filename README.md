@@ -398,12 +398,14 @@ My leetcode practice questions with solutions!
 | ------- |
 | [0155-min-stack](https://github.com/DylanLi6905/Leetcode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/DylanLi6905/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/DylanLi6905/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/DylanLi6905/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DylanLi6905/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/DylanLi6905/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/DylanLi6905/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1366-first-unique-number](https://github.com/DylanLi6905/Leetcode/tree/master/1366-first-unique-number) |
 ## Trie
@@ -439,6 +441,7 @@ My leetcode practice questions with solutions!
 | [0439-ternary-expression-parser](https://github.com/DylanLi6905/Leetcode/tree/master/0439-ternary-expression-parser) |
 | [0496-next-greater-element-i](https://github.com/DylanLi6905/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DylanLi6905/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/DylanLi6905/Leetcode/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DylanLi6905/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -474,6 +477,7 @@ My leetcode practice questions with solutions!
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0496-next-greater-element-i](https://github.com/DylanLi6905/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DylanLi6905/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/DylanLi6905/Leetcode/tree/master/0901-online-stock-span) |
 ## Graph
 |  |
 | ------- |
