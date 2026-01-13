@@ -213,6 +213,7 @@ My leetcode practice questions with solutions!
 | ------- |
 | [0100-same-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/DylanLi6905/Leetcode/tree/master/0127-word-ladder) |
@@ -337,6 +338,7 @@ My leetcode practice questions with solutions!
 | [0098-validate-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DylanLi6905/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -357,6 +359,7 @@ My leetcode practice questions with solutions!
 | [0098-validate-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DylanLi6905/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -381,6 +384,7 @@ My leetcode practice questions with solutions!
 | [0098-validate-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DylanLi6905/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
