@@ -225,6 +225,7 @@ My leetcode practice questions with solutions!
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
 | [1073-number-of-enclaves](https://github.com/DylanLi6905/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/DylanLi6905/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/DylanLi6905/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DylanLi6905/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Linked List
@@ -351,6 +352,7 @@ My leetcode practice questions with solutions!
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0545-boundary-of-binary-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/DylanLi6905/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DylanLi6905/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -374,6 +376,7 @@ My leetcode practice questions with solutions!
 | [0545-boundary-of-binary-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
 | [1073-number-of-enclaves](https://github.com/DylanLi6905/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/DylanLi6905/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/DylanLi6905/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DylanLi6905/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -396,6 +399,7 @@ My leetcode practice questions with solutions!
 | [0337-house-robber-iii](https://github.com/DylanLi6905/Leetcode/tree/master/0337-house-robber-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DylanLi6905/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0545-boundary-of-binary-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0545-boundary-of-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/DylanLi6905/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DylanLi6905/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Design
 |  |
