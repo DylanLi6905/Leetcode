@@ -37,6 +37,7 @@ My leetcode practice questions with solutions!
 | [0487-max-consecutive-ones-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0487-max-consecutive-ones-ii) |
 | [0490-the-maze](https://github.com/DylanLi6905/Leetcode/tree/master/0490-the-maze) |
 | [0494-target-sum](https://github.com/DylanLi6905/Leetcode/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/DylanLi6905/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/DylanLi6905/Leetcode/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/DylanLi6905/Leetcode/tree/master/0518-coin-change-ii) |
 | [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
@@ -168,6 +169,7 @@ My leetcode practice questions with solutions!
 | [0202-happy-number](https://github.com/DylanLi6905/Leetcode/tree/master/0202-happy-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/DylanLi6905/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/DylanLi6905/Leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0496-next-greater-element-i](https://github.com/DylanLi6905/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0582-kill-process](https://github.com/DylanLi6905/Leetcode/tree/master/0582-kill-process) |
 | [0740-delete-and-earn](https://github.com/DylanLi6905/Leetcode/tree/master/0740-delete-and-earn) |
 | [1039-find-the-town-judge](https://github.com/DylanLi6905/Leetcode/tree/master/1039-find-the-town-judge) |
@@ -435,6 +437,7 @@ My leetcode practice questions with solutions!
 | [0234-palindrome-linked-list](https://github.com/DylanLi6905/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0439-ternary-expression-parser](https://github.com/DylanLi6905/Leetcode/tree/master/0439-ternary-expression-parser) |
+| [0496-next-greater-element-i](https://github.com/DylanLi6905/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DylanLi6905/Leetcode/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DylanLi6905/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
@@ -469,6 +472,7 @@ My leetcode practice questions with solutions!
 |  |
 | ------- |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/DylanLi6905/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+| [0496-next-greater-element-i](https://github.com/DylanLi6905/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DylanLi6905/Leetcode/tree/master/0739-daily-temperatures) |
 ## Graph
 |  |
