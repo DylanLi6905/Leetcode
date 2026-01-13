@@ -14,27 +14,21 @@
  * }
  */
 class Solution {
+    int target;
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        if (root == null) return false;
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.add(root);
-        while(!queue.isEmpty()){
-            TreeNode node = queue.poll();
-            if (node.left == null && node.right == null) {
-                if (node.val == targetSum) {
-                    return true;
-                }
-                continue;
-            }
-            if(node.left != null){
-                node.left.val = node.left.val + node.val;
-                queue.add(node.left);
-            }
-            if(node.right != null){
-                node.right.val = node.right.val + node.val;
-                queue.add(node.right);
-            }
+        target = targetSum;
+        return dfs(root, 0);
+    }
+    public boolean dfs(TreeNode node, int curr){
+        if(node == null){
+            return false;
         }
-        return false;
+        if(node.left == null && node.right == null){
+            return (curr + node.val) == target;
+        }
+        curr += node.val;
+        boolean left = dfs(node.left, curr);
+        boolean right = dfs(node.right, curr);
+        return left || right;
     }
 }
